@@ -1,5 +1,5 @@
-# Computer Vision - Final Project
-Understanding Visual Metaphors in Ads
+# Computer Vision - Final Project: Understanding Visual Metaphors in Ads
+
 
 Nowadays advertising campaigns heavily use visual rhetoric in ads to make a powerful persuasive influence that can affect purchasers’ attention and interest. Visual rhetoric in advertising can take different forms, which in turn may range in complexity. Visual metaphor is a common form of visual rhetoric in which two divergent objects are compared by which the characteristic(s) of one object, the source, are attributed to the other object, the target. The source domain and target domain need at least one property in common as the basis of the implied comparison. 
 Visual advertisements rely on many strategies to convey their message. One strategy is for physical content inside the image to refer to other concepts or other content outside the image. In this study, our goal is to automatically understand this metaphorical strategy such that given the target (what is seen) and the source (what is implied), we can predict the best possible common sense between the source and the target in an ad.
